@@ -1,0 +1,23 @@
+body {
+    color: #0e2e7d;
+    font-family: tahoma;  
+}
+p {
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.black-border {
+    border: 5px solid #e6c1af;
+}
+.coupon {
+	width: 250px;
+	padding: 10px;
+	text-align: center;
+	border: 3px dashed #b05b48; 
+}
+h2 {
+    background-color: #e6c1af;
+}
+#green-background {
+    background-color: #75cfe4;
+}

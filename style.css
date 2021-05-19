@@ -1,0 +1,16 @@
+body {
+    color: #0e2e7d;
+    font-family: tahoma; 
+}
+nav {
+    background-color: #e6c1af;
+}
+footer {
+    background-color: #e6c1af;
+}
+.coupon {
+	width: 250px;
+	padding: 10px;
+	text-align: center;
+	border: 3px dashed #b05b48; 
+}
